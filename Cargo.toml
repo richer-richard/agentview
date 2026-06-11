@@ -7,7 +7,7 @@ description = "A session viewer for AI coding-agent transcripts, built with fene
 repository = "https://github.com/richer-richard/agentview"
 
 [dependencies]
-fenestra = { git = "https://github.com/richer-richard/fenestra", branch = "main" }
+fenestra = "0.3"
 serde_json = "1.0.150"
 
 [lints.rust]
