@@ -843,9 +843,9 @@ dependencies = [
 
 [[package]]
 name = "fenestra"
-version = "0.7.0"
+version = "0.8.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a25c14eb230f37cb9b3e8280f55d3eb622ed1ea61b94cfb66815ef0542131707"
+checksum = "3b032dfe527780288174295330dc5a249c466a6a814685df62bf4e0e15612de6"
 dependencies = [
  "fenestra-core",
  "fenestra-kit",
@@ -854,9 +854,9 @@ dependencies = [
 
 [[package]]
 name = "fenestra-core"
-version = "0.7.0"
+version = "0.8.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "504177d65145ef088ecfeae5cb75aa64cbaf2fe4fa85c437de95e0465f5d07e9"
+checksum = "fcf95d749ba4ac4c3dc1cb11f9b8bfa555a240abd5fa079431872c173ce40cdd"
 dependencies = [
  "color",
  "fontique",
@@ -871,9 +871,9 @@ dependencies = [
 
 [[package]]
 name = "fenestra-kit"
-version = "0.7.0"
+version = "0.8.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "df1ea88d1f1ae83c34b67246407cd1c612f539c66d37055c6c11c854e551f4d6"
+checksum = "1533f8e72f254dfb40966cb92984c81d7492ac09ba1238a88ce8dc76f40e6dea"
 dependencies = [
  "fenestra-core",
  "kurbo",
@@ -881,9 +881,9 @@ dependencies = [
 
 [[package]]
 name = "fenestra-shell"
-version = "0.7.0"
+version = "0.8.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "bb4e66a732ca594e9856547ddc0db919e221bab9341da0d0789886bd858702b7"
+checksum = "cc58675fc30811a1d3197a434e6c9b8c587136f41ae8b6e35730421f54d38687"
 dependencies = [
  "accesskit",
  "accesskit_winit",
